@@ -1,0 +1,47 @@
+C:\Users\PeeMiiZ\Desktop\Project\DemoQues\DemoQue\DemoQue\bin\Debug\DemoQue.exe.config
+C:\Users\PeeMiiZ\Desktop\Project\DemoQues\DemoQue\DemoQue\bin\Debug\DemoQue.exe
+C:\Users\PeeMiiZ\Desktop\Project\DemoQues\DemoQue\DemoQue\bin\Debug\DemoQue.pdb
+C:\Users\PeeMiiZ\Desktop\Project\DemoQues\DemoQue\DemoQue\obj\Debug\DemoQue.csprojResolveAssemblyReference.cache
+C:\Users\PeeMiiZ\Desktop\Project\DemoQues\DemoQue\DemoQue\obj\Debug\DemoQue.Form1.resources
+C:\Users\PeeMiiZ\Desktop\Project\DemoQues\DemoQue\DemoQue\obj\Debug\DemoQue.Properties.Resources.resources
+C:\Users\PeeMiiZ\Desktop\Project\DemoQues\DemoQue\DemoQue\obj\Debug\DemoQue.csproj.GenerateResource.Cache
+C:\Users\PeeMiiZ\Desktop\Project\DemoQues\DemoQue\DemoQue\obj\Debug\DemoQue.csproj.CoreCompileInputs.cache
+C:\Users\PeeMiiZ\Desktop\Project\DemoQues\DemoQue\DemoQue\obj\Debug\DemoQue.exe
+C:\Users\PeeMiiZ\Desktop\Project\DemoQues\DemoQue\DemoQue\obj\Debug\DemoQue.pdb
+C:\Users\PeeMiiZ\Desktop\Project\DemoQues\DemoQue\DemoQue\bin\Debug\Interop.WMPLib.dll
+C:\Users\PeeMiiZ\Desktop\Project\DemoQues\DemoQue\DemoQue\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PeeMiiZ\Desktop\Project\DemoQues\DemoQue\DemoQue\obj\Debug\Interop.WMPLib.dll
+C:\Users\PeeMiiZ\Desktop\Project\DemoQues\DemoQue\DemoQue\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PeeMiiZ\Desktop\Project\DemoQues\DemoQue\DemoQue\obj\Debug\DemoQue.csproj.ResolveComReference.cache
+C:\Users\I-Think\Desktop\Peem\DemoQues\DemoQue\DemoQue\bin\Debug\DemoQue.exe.config
+C:\Users\I-Think\Desktop\Peem\DemoQues\DemoQue\DemoQue\bin\Debug\DemoQue.exe
+C:\Users\I-Think\Desktop\Peem\DemoQues\DemoQue\DemoQue\bin\Debug\DemoQue.pdb
+C:\Users\I-Think\Desktop\Peem\DemoQues\DemoQue\DemoQue\bin\Debug\Interop.WMPLib.dll
+C:\Users\I-Think\Desktop\Peem\DemoQues\DemoQue\DemoQue\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\I-Think\Desktop\Peem\DemoQues\DemoQue\DemoQue\obj\Debug\DemoQue.csprojResolveAssemblyReference.cache
+C:\Users\I-Think\Desktop\Peem\DemoQues\DemoQue\DemoQue\obj\Debug\Interop.WMPLib.dll
+C:\Users\I-Think\Desktop\Peem\DemoQues\DemoQue\DemoQue\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\I-Think\Desktop\Peem\DemoQues\DemoQue\DemoQue\obj\Debug\DemoQue.csproj.ResolveComReference.cache
+C:\Users\I-Think\Desktop\Peem\DemoQues\DemoQue\DemoQue\obj\Debug\DemoQue.Form1.resources
+C:\Users\I-Think\Desktop\Peem\DemoQues\DemoQue\DemoQue\obj\Debug\DemoQue.Properties.Resources.resources
+C:\Users\I-Think\Desktop\Peem\DemoQues\DemoQue\DemoQue\obj\Debug\DemoQue.csproj.GenerateResource.Cache
+C:\Users\I-Think\Desktop\Peem\DemoQues\DemoQue\DemoQue\obj\Debug\DemoQue.csproj.CoreCompileInputs.cache
+C:\Users\I-Think\Desktop\Peem\DemoQues\DemoQue\DemoQue\obj\Debug\DemoQue.exe
+C:\Users\I-Think\Desktop\Peem\DemoQues\DemoQue\DemoQue\obj\Debug\DemoQue.pdb
+C:\Users\I-Think\Desktop\Peem\DemoQues\DemoQue\DemoQue\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DemoQue\DemoQue\bin\Debug\DemoQue.exe.config
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DemoQue\DemoQue\bin\Debug\DemoQue.exe
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DemoQue\DemoQue\bin\Debug\DemoQue.pdb
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DemoQue\DemoQue\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DemoQue\DemoQue\bin\Debug\Interop.WMPLib.dll
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DemoQue\DemoQue\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DemoQue\DemoQue\obj\Debug\DemoQue.csprojResolveAssemblyReference.cache
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DemoQue\DemoQue\obj\Debug\Interop.WMPLib.dll
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DemoQue\DemoQue\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DemoQue\DemoQue\obj\Debug\DemoQue.csproj.ResolveComReference.cache
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DemoQue\DemoQue\obj\Debug\DemoQue.Form1.resources
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DemoQue\DemoQue\obj\Debug\DemoQue.Properties.Resources.resources
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DemoQue\DemoQue\obj\Debug\DemoQue.csproj.GenerateResource.Cache
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DemoQue\DemoQue\obj\Debug\DemoQue.csproj.CoreCompileInputs.cache
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DemoQue\DemoQue\obj\Debug\DemoQue.exe
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DemoQue\DemoQue\obj\Debug\DemoQue.pdb
